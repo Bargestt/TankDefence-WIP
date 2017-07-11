@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/Cursor"/>
+    <qresource prefix="/Turrets">
+        <file>files/ArtilleryTurret.png</file>
+    </qresource>
+    <qresource prefix="/Enemies">
+        <file>files/Tank.png</file>
+    </qresource>
+</RCC>
